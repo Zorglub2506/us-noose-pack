@@ -33,7 +33,7 @@ If you have any questions/suggestions, contact me here : https://discord.gg/bbFc
 Installation
 ******************************************
 Drop 'peds' folder's content in : (OpenIV)
-	GTA V/mods/update/x64/dlcpacks/patchday4ng/dlc.rpf/x64/models/cdimages/patchday4ng.rpf
+	GTA V/mods/update/x64/dlcpacks/patchday25ng/dlc.rpf/x64/models/cdimages/patchday25ng.rpf
 
 
 Have fun !
