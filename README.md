@@ -1,4 +1,4 @@
-# us-noose-pack
+# Los Santos N.O.o.S.E. vehicle pack
 American emergency pack. Replaces some emergency vehicles by N.O.o.S.E. vehicles. Also replaces SWAT ped and Chemical Security (=Chemsec) by N.O.o.S.E. peds.
 
 ******************************************
